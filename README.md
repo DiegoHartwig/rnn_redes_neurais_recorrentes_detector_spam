@@ -1,2 +1,3 @@
-# rnn_redes_neurais_recorrentes_detector_spam
+RNN - Redes Neurais Recorrentes
+
 Implementando um detector de spam com RNN (Recurrent Neural Network)
